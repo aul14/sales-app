@@ -70,3 +70,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Cara Penggunaan
+
+1. Install Composer
+2. Jalankan Migrasi
+3. Jalankan Seeder
+4. Jalankan Perintah php artisan storage:link
+5. login sesuai data seeder
